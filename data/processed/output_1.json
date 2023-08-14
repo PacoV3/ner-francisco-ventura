@@ -1,0 +1,17 @@
+{
+    "resultado": [
+        {
+            "oracion": "Apple est\u00e1 buscando comprar una startup del Reino Unido por mil millones de d\u00f3lares.",
+            "entidades": {
+                "Apple": "ORG",
+                "Reino Unido": "LOC"
+            }
+        },
+        {
+            "oracion": "San Francisco considera prohibir los robots de entrega en la acera.",
+            "entidades": {
+                "San Francisco": "LOC"
+            }
+        }
+    ]
+}

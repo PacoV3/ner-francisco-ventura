@@ -1,0 +1,13 @@
+name: ner_test_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.10
+  - nltk=3.8.1
+  - python-dotenv
+  - spacy=3.6.1
+  - pip=23.2.1
+  - flask=2.2.2
+  # - pip:
+  #   - -r file:requirements.txt
