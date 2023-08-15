@@ -136,6 +136,8 @@ mamba env update -n base -f environment.yml
 │   └── test_env_vars.py   <- The naming convetion for new tests depends on the script that is 
 │                            going to be tested. The rule is to format "test_" + "name_of_file.py".
 │
+├── app.py                 <- File containing the main logic of the API, execute with "python app.py".
+│
 │── Dockerfile             <- Definition of how to create the image to run this repo as a dev container.
 │
 │── .env                   <- File to store local development variables.
