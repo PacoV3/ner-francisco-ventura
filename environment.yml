@@ -6,6 +6,9 @@ dependencies:
   - python=3.10.10
   - nltk=3.8.1
   - python-dotenv
+  - pytest
+  - pytest-cov
+  - pytest-env
   - spacy=3.6.1
   - pip=23.2.1
   - flask=2.2.2
